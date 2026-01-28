@@ -72,7 +72,5 @@ The Python application provides a simple graphical interface to:
 ```bash
 pip install pyodbc
 pip install ttkbootstrap
-
-### 3. Run the Application
 python gui_app.py
 
